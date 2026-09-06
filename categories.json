@@ -1,2 +1,9 @@
 {
+  "flashCollection": [
+    {
+      "collectionName": "US states & capitals",
+      "url": "/1.json"
+    }
+
+  ]
 }
