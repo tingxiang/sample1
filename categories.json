@@ -1,9 +1,10 @@
-{
-  "flashCollection": [
-    {
-      "collectionName": "US states & capitals",
-      "url": "/1.json"
-    }
-
-  ]
-}
+[
+  {
+    "name": "US states & capitals",
+    "id": "245CA6C2-4B29-422B-BB1A-C5633CA12BC0"
+  },
+  {
+    "name": "World Continents",
+    "id": "136BC1A3-10BB-455C-81B9-53EE3EAF15CC"
+  }
+]
