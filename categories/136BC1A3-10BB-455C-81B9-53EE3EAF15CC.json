@@ -1,0 +1,33 @@
+{
+  "name": "World Continents",
+  "cards": [
+    {
+      "front": "Africa",
+      "back": "Algeria, Democratic Republic of the Congo, Sudan"
+    },
+    {
+      "front": "Antarctica",
+      "back": "No countries"
+    },
+    {
+      "front": "Asia",
+      "back": "Russia, China, India"
+    },
+    {
+      "front": "Europe",
+      "back": "Russia, Ukraine, France"
+    },
+    {
+      "front": "North America",
+      "back": "Canada, United States, Mexico"
+    },
+    {
+      "front": "South America",
+      "back": "Brazil, Argentina, Peru"
+    },
+    {
+      "front": "Australia",
+      "back": "Australia, Papua New Guinea, New Zealand"
+    }
+  ]
+}
